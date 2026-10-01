@@ -9,23 +9,23 @@ Denario is a multiagent system designed to be a scientific research assistant. D
 
 ## Resources
 
-- [🌐 Project page](https://astropilot-ai.github.io/DenarioPaperPage/)
+- [🌐 Project page](https://denario-ai.github.io/DenarioPaperPage/)
 
 - [📄 Paper](https://arxiv.org/abs/2510.26887)
 
 - [📖 Documentation](https://denario.readthedocs.io/en/latest/)
 
-- [🖥️ Denario GUI repository](https://github.com/AstroPilot-AI/DenarioApp)
+- [🖥️ Denario GUI repository](https://github.com/Denario-AI/DenarioApp)
 
 - [🤗 Demo web app for Denario GUI](https://huggingface.co/spaces/astropilot-ai/Denario)
 
-- [📝 End-to-end research papers generated with Denario](https://github.com/AstroPilot-AI/DenarioExamplePapers)
+- [📝 End-to-end research papers generated with Denario](https://github.com/Denario-AI/DenarioExamplePapers)
 
 - [🎥 YouTube channel](https://www.youtube.com/@denario-ai)
 
 ## Last updates
 
-- January 20, 2026 - [Denario](https://github.com/AstroPilot-AI/Denario) and [Cmbagent](https://github.com/CMBAgents/cmbagent) featured in the [LSST DESC AI Roadmap](https://arxiv.org/abs/2601.14235). 
+- January 20, 2026 - [Denario](https://github.com/Denario-AI/Denario) and [Cmbagent](https://github.com/CMBAgents/cmbagent) featured in the [LSST DESC AI Roadmap](https://arxiv.org/abs/2601.14235). 
 
 - December 7, 2025 - [Cmbagent](https://github.com/CMBAgents/cmbagent), the research analysis backend of Denario, won a **first place award** at the **NeurIPS 2025 [Fair Universe Competition](https://fair-universe.lbl.gov/)**. 
 
@@ -112,7 +112,7 @@ den.set_method(path_to_the_method_file.md)
 
 ## DenarioApp
 
-You can run Denario using a GUI through the [DenarioApp](https://github.com/AstroPilot-AI/DenarioApp).
+You can run Denario using a GUI through the [DenarioApp](https://github.com/Denario-AI/DenarioApp).
 
 The app is already installed with `pip install "denario[app]"`, otherwise install it with `pip install denario_app` or `uv sync --extra app`.
 
@@ -131,7 +131,7 @@ Test a [deployed demo of the app in HugginFace Spaces](https://huggingface.co/sp
 You will need python 3.12 or higher installed. Clone Denario:
 
 ```bash
-git clone https://github.com/AstroPilot-AI/Denario.git
+git clone https://github.com/Denario-AI/Denario.git
 cd Denario
 ```
 
@@ -219,8 +219,8 @@ If you make use of Denario, please cite the following references:
           author = {Pablo Villanueva-Domingo, Francisco Villaescusa-Navarro, Boris Bolliet},
           title = {Denario: Modular Multi-Agent System for Scientific Research Assistance},
           year = {2025},
-          url = {https://github.com/AstroPilot-AI/Denario},
-          note = {Available at https://github.com/AstroPilot-AI/Denario},
+          url = {https://github.com/Denario-AI/Denario},
+          note = {Available at https://github.com/Denario-AI/Denario},
           version = {latest}
           }
 
