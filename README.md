@@ -11,7 +11,7 @@ Denario is a multiagent system designed to be a scientific research assistant. D
 
 - [🌐 Project page](https://denario-ai.github.io/DenarioPaperPage/)
 
-- [📄 Paper](https://arxiv.org/abs/2510.26887)
+- [📄 Paper](https://journals.aps.org/prxintelligence/abstract/10.1103/kk55-gc95)
 
 - [📖 Documentation](https://denario.readthedocs.io/en/latest/)
 
@@ -24,6 +24,10 @@ Denario is a multiagent system designed to be a scientific research assistant. D
 - [🎥 YouTube channel](https://www.youtube.com/@denario-ai)
 
 ## Last updates
+
+- October 1, 2026 - Denario paper has been published in [PRX Intelligence](https://journals.aps.org/prxintelligence/abstract/10.1103/kk55-gc95).
+
+- February 3, 2026 - Denario has been featured in [Nature Materials](https://www.nature.com/articles/s41563-026-02504-x).
 
 - January 20, 2026 - [Denario](https://github.com/Denario-AI/Denario) and [Cmbagent](https://github.com/CMBAgents/cmbagent) featured in the [LSST DESC AI Roadmap](https://arxiv.org/abs/2601.14235). 
 
