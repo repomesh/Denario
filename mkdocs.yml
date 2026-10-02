@@ -1,5 +1,5 @@
 site_name: Denario
-repo_url: https://github.com/AstroPilot-AI/Denario
+repo_url: https://github.com/Denario-AI/Denario
 site_url: !ENV READTHEDOCS_CANONICAL_URL
 
 nav:
@@ -83,7 +83,7 @@ plugins:
       execute: False
       ignore_h1_titles: True
   - git-committers:
-      repository: AstroPilot-AI/Denario
+      repository: Denario-AI/Denario
       branch: master
 
 extra_css:

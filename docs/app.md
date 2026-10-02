@@ -1,6 +1,6 @@
 # DenarioApp
 
-DenarioApp is the GUI for multiagent research assitant system [Denario](https://github.com/AstroPilot-AI/Denario.git), powered by [streamlit](https://streamlit.io).
+DenarioApp is the GUI for multiagent research assitant system [Denario](https://github.com/Denario-AI/Denario.git), powered by [streamlit](https://streamlit.io).
 
 [Test a deployed demo of this app in HugginFace Spaces.](https://huggingface.co/spaces/astropilot-ai/Denario)
 
@@ -30,7 +30,7 @@ denario run
 
 First, clone the app with
 
-`git clone https://github.com/AstroPilot-AI/DenarioApp.git`
+`git clone https://github.com/Denario-AI/DenarioApp.git`
 
 Install the GUI from source following one of the following steps:
 

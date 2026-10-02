@@ -71,7 +71,7 @@ or `uv add denario` if we do not need GUI support.
 You will need python 3.12 or higher installed. Clone Denario:
 
 ```bash
-git clone https://github.com/AstroPilot-AI/Denario.git
+git clone https://github.com/Denario-AI/Denario.git
 cd Denario
 ```
 

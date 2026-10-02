@@ -33,9 +33,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://astropilot-ai.github.io/DenarioPaperPage/"
+Homepage = "https://denario-ai.github.io/DenarioPaperPage/"
 Documentation = "https://denario.readthedocs.io/en/latest/"
-Repository = "https://github.com/AstroPilot-AI/Denario"
+Repository = "https://github.com/Denario-AI/Denario"
 
 [project.scripts]
 denario = "denario.cli:main"
